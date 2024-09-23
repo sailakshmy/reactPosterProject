@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "body": "Second Post hopefully",
+      "author": "Me",
+      "id": "0.8942045399648577"
+    },
+    { "body": "This is a dummy post", "author": "Sai", "id": "1738" }
+  ]
+}
