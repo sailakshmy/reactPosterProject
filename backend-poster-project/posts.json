@@ -1,10 +1,1 @@
-{
-  "posts": [
-    {
-      "body": "Second Post hopefully",
-      "author": "Me",
-      "id": "0.8942045399648577"
-    },
-    { "body": "This is a dummy post", "author": "Sai", "id": "1738" }
-  ]
-}
+{"posts":[{"body":"Official","author":"Hi","id":"0.7934505149907682"},{"body":"sfsdgseg","author":"regre","id":"0.8532993410419913"},{"body":"Second Post hopefully","author":"Me","id":"0.8942045399648577"},{"body":"This is a dummy post","author":"Sai","id":"1738"}]}
