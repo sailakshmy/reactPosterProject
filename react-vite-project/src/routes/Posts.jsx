@@ -5,7 +5,6 @@ function Posts() {
   return (
     <>
       <Outlet />
-      {/* <MainHeader onCreatePost={showModalHandler}/> */}
       <main>
         <PostList />
       </main>
